@@ -1,0 +1,36 @@
+* {
+    font-family: 'Poppins', sans-serif;
+}
+
+.navbar {
+    background: #6366f1ff !important;
+}
+
+.navbar-brand {
+    color: #ffffff !important;
+    font-weight: 600 !important;
+}
+
+.nav-link {
+    color: whitesmoke !important;
+}
+
+.nav-link:hover {
+    color: #ff5794 !important;
+}
+
+.navbar-toggler {
+    color: #ffffff !important;
+}
+
+#nav-search-btn {
+    color: #03ee63 !important;
+    font-weight: 600 !important;
+    border: 2px solid #03ee63 !important;
+    outline: none !important;
+}
+
+#nav-search-btn:hover {
+    background: #03ee63 !important;
+    color: #ffffff !important;
+}
