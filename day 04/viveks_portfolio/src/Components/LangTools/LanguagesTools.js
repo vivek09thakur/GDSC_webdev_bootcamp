@@ -3,7 +3,10 @@ import "./LanguagesTool.css";
 const LanguagesTools = () => {
     return (
         <div className="languages_tools">
-            This gonna be my languages_tools Section
+            
+            <div className="icon_container">
+                <img src="public/logo192.png" alt=""/>
+            </div>
 
         </div>
     );
