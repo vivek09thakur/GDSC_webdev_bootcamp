@@ -1,1 +1,0 @@
-## GDSC Web Dev Bootcamp
